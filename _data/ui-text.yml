@@ -289,7 +289,7 @@ zh: &DEFAULT_ZH
   related_label              : "你可能感兴趣的"
   follow_label               : "Follow ME ："
   feed_label                 : "Feed"
-  powered_by                 : "技术支持："
+  powered_by                 : "powered_by: "
   website_label              : "网站"
   email_label                : "Email"
   recent_posts               : "最新文章"

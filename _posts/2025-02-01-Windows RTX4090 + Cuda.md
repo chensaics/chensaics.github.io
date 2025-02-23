@@ -6,12 +6,19 @@ tags:
   - linux
 ---
 
-<section id="nice" data-tool="mdnice编辑器" data-website="https://www.mdnice.com"><p data-tool="mdnice编辑器">本文主要内容：</p>
-<ul data-tool="mdnice编辑器">
-<li><section>硬件参考（哪里省钱，哪里不要省）</section></li><li><section>Win10+RTX4090深度学习环境配置</section></li><li><section>Mac远程联机Windows（ssh、APP）</section></li></ul>
-<p data-tool="mdnice编辑器">这两天买了一张<strong>RTX4090的显卡</strong>，就在以前的主机上安装和配置了一下，把过程记录下来，有需要的人可以参考一下，先上一个成品图：
-<img src="https://files.mdnice.com/user/38578/2e74eacf-b092-43af-b75b-26397b24c85d.jpg" alt=""></p>
-<h1 data-tool="mdnice编辑器"><span class="prefix"></span><span class="content">硬件</span><span class="suffix"></span></h1>
+本文主要内容
+==============
+
+- 硬件参考（哪里省钱，哪里不要省）
+- Win10+RTX4090深度学习环境配置
+- Mac远程联机Windows（ssh、APP
+
+这两天买了一张<strong>RTX4090的显卡</strong>，就在以前的主机上安装和配置了一下，把过程记录下来，有需要的人可以参考一下，先上一个成品图：
+<img src="https://files.mdnice.com/user/38578/2e74eacf-b092-43af-b75b-26397b24c85d.jpg" alt="">
+
+
+硬件
+==========
 <p data-tool="mdnice编辑器">主机是2020年买的，可以根据需要买更高配的。
 <img src="https://files.mdnice.com/user/38578/1c866290-3ef6-494b-b103-489a638676d3.png" alt="">
 本次要更换的就是红框中的三个，显卡、内存、电源，其他的都还能用。</p>

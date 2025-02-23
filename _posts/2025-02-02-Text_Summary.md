@@ -6,10 +6,13 @@ tags:
   - deeplearning
 ---
 
-<section id="nice" data-tool="mdnice编辑器" data-website="https://www.mdnice.com"><p data-tool="mdnice编辑器">​</p>
-<p data-tool="mdnice编辑器">文本摘要的常见问题和解决方法概述，以及使用Hugging Face Transformers库构建基于新浪微博数据集的文本摘要示例。</p>
 
-<h2 data-tool="mdnice编辑器"><span class="prefix"></span><span class="content">1 前言简介</span><span class="suffix"></span></h2>
+本文主要内容
+==============
+文本摘要的常见问题和解决方法概述，以及使用Hugging Face Transformers库构建基于新浪微博数据集的文本摘要示例。
+
+1 前言简介
+---------
 <p data-tool="mdnice编辑器">文本摘要旨在将文本或文本集合转换为包含关键信息的简短文本。主流方法有两种类型，抽取式和生成式。常见问题：抽取式摘要的内容选择错误、语句连贯性差、灵活性差。生成式摘要受未登录词、词语重复等问题影响。
 文本摘要的分类有很多，比如单文档多文档摘要、多语言摘要、论文生成（摘要、介绍、重点陈述等每个章节的生成）、医学报告生成、情感类摘要（观点、感受、评价等的摘要）、对话摘要等。主流解决方法主要是基于深度学习、强化学习、迁移学习等方法，有大量的相关论文可以解读和研究。
 抽取式的代表方法有TextRank、BertSum[1]，从原文中抽取出字词组合成新的摘要。TextRank仿照PageRank，句子作为节点，构造无向有权边,权值为句子相似度。

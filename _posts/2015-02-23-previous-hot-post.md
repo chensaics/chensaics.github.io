@@ -8,6 +8,7 @@ tags:
 
 Posts
 ======
+近期火热文章。
 
 [DeepSeek超全指南【本地部署、构建知识库、指令技巧、热门客户端】](https://www.icnma.com/deepseek-tutorial-lecture/)
 

@@ -26,7 +26,7 @@ redirect_from:
 ## 🔍️Info
 
 * 🌍  I'm based in HangZhou, ZheJiang, China
-* 📝  See my blog at [icnma.com](http://www.icnma.com)
+* 📝  See my blog at [icnma.com](http://www.icnma.com) and [Github Pages](https://chensaics.github.io/posts/)
 
 ## 💡Skills
 

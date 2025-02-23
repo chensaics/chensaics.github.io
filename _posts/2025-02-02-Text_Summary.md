@@ -1,3 +1,11 @@
+---
+title: 'Text_Summary'
+date: 2025-02-03
+permalink: /posts/2025/02/Text_Summary/
+tags:
+  - deeplearning
+---
+
 <section id="nice" data-tool="mdnice编辑器" data-website="https://www.mdnice.com"><p data-tool="mdnice编辑器">​</p>
 <p data-tool="mdnice编辑器">文本摘要的常见问题和解决方法概述，以及使用Hugging Face Transformers库构建基于新浪微博数据集的文本摘要示例。</p>
 

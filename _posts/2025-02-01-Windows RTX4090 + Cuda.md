@@ -1,3 +1,11 @@
+---
+title: 'RTX4090 + Cuda'
+date: 2025-02-03
+permalink: /posts/2025/02/RTX4090-Cuda/
+tags:
+  - linux
+---
+
 <section id="nice" data-tool="mdnice编辑器" data-website="https://www.mdnice.com"><p data-tool="mdnice编辑器">本文主要内容：</p>
 <ul data-tool="mdnice编辑器">
 <li><section>硬件参考（哪里省钱，哪里不要省）</section></li><li><section>Win10+RTX4090深度学习环境配置</section></li><li><section>Mac远程联机Windows（ssh、APP）</section></li></ul>
